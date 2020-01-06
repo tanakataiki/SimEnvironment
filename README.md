@@ -31,3 +31,7 @@ But I ofcourse use some other simulators I respect for each good features.
 ## Autoware(Awesome)
 ![Autoware](https://github.com/tanakataiki/SimEnvironment/blob/master/example/autoware.JPG)
 
+
+
+## Graduation thesis
+![MonoWheel](https://github.com/tanakataiki/SimEnvironment/blob/master/example/Shoroku_comp.jpg)
